@@ -1,2 +1,2 @@
-# hassan-ait-baha
+# base digit similarity
 image digits similarity
